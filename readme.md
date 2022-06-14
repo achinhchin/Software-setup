@@ -37,3 +37,4 @@
 - **graphics**
     - Adobe setup (*macOS*, *Windows*)
     - [Lunacy](https://icons8.com/lunacy)
+
