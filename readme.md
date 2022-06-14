@@ -25,6 +25,7 @@
 - **Tools**
     - [Winrar](https://www.win-rar.com/download.html?&L=0) (*Windows*)
     - [Keys remapping setup](https://github.com/chinhchin/Keys-remapping-setup.git) (*macOS*, *Windows*)
+    - [Peace Equalizer](https://sourceforge.net/projects/peace-equalizer-apo-extension/) (*Windows*)
 - **Document**
     - [Microsoft Office](https://www.office.com/) (*Windows*, *macOS*)
     - [Drawboard PDF](https://www.drawboard.com/pdf) (*Windows*, *iPadOS*)

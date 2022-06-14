@@ -1,12 +1,22 @@
 {
     "versions": {
-        "0.0": {
-            "feature": [
+        "0.0":  {
+            "features": [
                 "Softwares setup"
             ],
             "release": true,
             "updates": [
                 "Init"
+            ],
+            "development versions": {}
+        },
+        "0.1": {
+            "features": [
+                "Softwares setup"
+            ],
+            "release": false,
+            "updates": [
+                "long version for update softwares"
             ],
             "development versions": {}
         }
