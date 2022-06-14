@@ -1,0 +1,21 @@
+{
+    "versions": {
+        "0.0": {
+            "feature": [
+                "Softwares setup"
+            ],
+            "release": true,
+            "updates": [
+                "Init"
+            ],
+            "development versions": {}
+        }
+    },
+    "features": {
+        "future": {},
+        "present": {
+            "Softwares setup": "0.0 -> now"
+        },
+        "past": {}
+    }
+}
