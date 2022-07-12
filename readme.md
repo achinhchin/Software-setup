@@ -10,9 +10,30 @@
 
 ---
 
+- **Driver**
+    - All useful hardware drivers
+    - CPU driver
+    - GPU driver
+    - Printer driver
+    - [Peace Equalizer (sound eq controller)](https://sourceforge.net/projects/peace-equalizer-apo-extension/) (*Windows*)
+    - [Keys remapping setup](https://github.com/chinhchin/Keys-remapping-setup.git) (*macOS*, *Windows*)
+- **Useful Tools**
+    - System Settings
+    - Wallpaper (see my [Wallpapers Collection](https://github.com/chinhchin/Wallpapers-Collection.git))
+    - [Winrar](https://www.win-rar.com/download.html?&L=0) (*Windows*)
 - [Fonts](https://github.com/chinhchin/Fonts-setup.git)
-- **Life, Projects, Time management**
+- **Markdown Note**
     - [Obsidian](https://obsidian.md/)
+- **Game**
+    - [Fortnite](https://www.epicgames.com/fortnite/en-US/home)
+    - *Windows*
+        - [Valorant](https://www.epicgames.com/fortnite/en-US/home)
+- **Document**
+    - [Microsoft Office](https://www.office.com/) (*Windows*, *macOS*)
+    - [Drawboard PDF](https://www.drawboard.com/pdf) (*Windows*, *iPadOS*)
+- **Graphics**
+    - Adobe setup (*macOS*, *Windows*)
+    - [Lunacy](https://icons8.com/lunacy)
 - **Programming**
     - [Vs Code](https://code.visualstudio.com/)
 - **Terminal**
@@ -27,21 +48,3 @@
         - [Neovim setup](https://github.com/chinhchin/Neovim-setup.git)
         - [Tmux setup](https://github.com/chinhchin/Tmux-setup.git)
 
-- **Tools**
-    - [Winrar](https://www.win-rar.com/download.html?&L=0) (*Windows*)
-    - [Keys remapping setup](https://github.com/chinhchin/Keys-remapping-setup.git) (*macOS*, *Windows*)
-    - [Peace Equalizer](https://sourceforge.net/projects/peace-equalizer-apo-extension/) (*Windows*)
-- **Document**
-    - [Microsoft Office](https://www.office.com/) (*Windows*, *macOS*)
-    - [Drawboard PDF](https://www.drawboard.com/pdf) (*Windows*, *iPadOS*)
-- **Graphics**
-    - Adobe setup (*macOS*, *Windows*)
-    - [Lunacy](https://icons8.com/lunacy)
-- **Game**
-    - [Fortnite](https://www.epicgames.com/fortnite/en-US/home)
-    - *Windows*
-        - [Valorant](https://www.epicgames.com/fortnite/en-US/home)
-- **Driver**
-    - CPU driver
-    - GPU driver
-    - Printer driver
