@@ -41,3 +41,7 @@
     - [Fortnite](https://www.epicgames.com/fortnite/en-US/home)
     - *Windows*
         - [Valorant](https://www.epicgames.com/fortnite/en-US/home)
+- **Driver**
+    - CPU driver
+    - GPU driver
+    - Printer driver
