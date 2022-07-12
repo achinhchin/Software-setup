@@ -34,7 +34,6 @@
         - [Fortnite](https://www.epicgames.com/fortnite/en-US/home)
         - *Windows*
             - [Valorant](https://www.epicgames.com/fortnite/en-US/home)
-            - [Discord](https://discord.com/download)
 - **Document**
     - [Microsoft Office](https://www.office.com/) (*Windows*, *macOS*)
     - [Drawboard PDF](https://www.drawboard.com/pdf) (*Windows*, *iPadOS*)
