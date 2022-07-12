@@ -34,7 +34,10 @@
 - **Document**
     - [Microsoft Office](https://www.office.com/) (*Windows*, *macOS*)
     - [Drawboard PDF](https://www.drawboard.com/pdf) (*Windows*, *iPadOS*)
-- **graphics**
+- **Graphics**
     - Adobe setup (*macOS*, *Windows*)
     - [Lunacy](https://icons8.com/lunacy)
-
+- **Game**
+    - [Fortnite](https://www.epicgames.com/fortnite/en-US/home)
+    - *Windows*
+        - [Valorant](https://www.epicgames.com/fortnite/en-US/home)
