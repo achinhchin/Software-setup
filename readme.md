@@ -24,10 +24,17 @@
 - [Fonts](https://github.com/chinhchin/Fonts-setup.git)
 - **Markdown Note**
     - [Obsidian](https://obsidian.md/)
-- **Game**
-    - [Fortnite](https://www.epicgames.com/fortnite/en-US/home)
-    - *Windows*
-        - [Valorant](https://www.epicgames.com/fortnite/en-US/home)
+- **Entertainment**
+    - **Music Straming**
+        - [Spotify](https://spotify.com/download)
+    - **Social Media**
+        - [Line](https://line.me)
+        - [Discord](https://discord.com/download)
+    - **Game**
+        - [Fortnite](https://www.epicgames.com/fortnite/en-US/home)
+        - *Windows*
+            - [Valorant](https://www.epicgames.com/fortnite/en-US/home)
+            - [Discord](https://discord.com/download)
 - **Document**
     - [Microsoft Office](https://www.office.com/) (*Windows*, *macOS*)
     - [Drawboard PDF](https://www.drawboard.com/pdf) (*Windows*, *iPadOS*)
