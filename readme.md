@@ -20,7 +20,8 @@
 - **Useful Tools**
     - System Settings
     - Wallpaper (see my [Wallpapers Collection](https://github.com/chinhchin/Wallpapers-Collection.git))
-    - [Winrar](https://www.win-rar.com/download.html?&L=0) (*Windows*)
+    - [Winrar (File compresser & depresser)](https://www.win-rar.com/download.html?&L=0) (*Windows*)
+    - [Google Drive for desktop](https://www.google.com/drive/download/)
 - [Fonts](https://github.com/chinhchin/Fonts-setup.git)
 - **Markdown Note**
     - [Obsidian](https://obsidian.md/)
