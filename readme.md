@@ -16,12 +16,14 @@
     - GPU driver
     - Printer driver
     - [Peace Equalizer (sound eq controller)](https://sourceforge.net/projects/peace-equalizer-apo-extension/) (*Windows*)
-    - [Keys remapping setup](https://github.com/chinhchin/Keys-remapping-setup.git) (*macOS*, *Windows*)
+    - [Keys remapping setup](https://github.com/chinhchin/Keys-remapping-setup.git)
 - **Useful Tools**
     - System Settings
     - Wallpaper (see my [Wallpapers Collection](https://github.com/chinhchin/Wallpapers-Collection.git))
+    - [Oracle VM VirtualBox](https://www.virtualbox.org/wiki/Downloads)
     - [Winrar (File compresser & depresser)](https://www.win-rar.com/download.html?&L=0) (*Windows*)
     - [Google Drive for desktop](https://www.google.com/drive/download/)
+    - [Git setup](https://github.com/chinhchin/Git-setup.git)
 - [Fonts](https://github.com/chinhchin/Fonts-setup.git)
 - **Markdown Note**
     - [Obsidian](https://obsidian.md/)
@@ -32,19 +34,19 @@
         - [Line](https://line.me)
         - [Discord](https://discord.com/download)
     - **Game**
-        - [Fortnite](https://www.epicgames.com/fortnite/en-US/home)
-        - *Windows*
-            - [Valorant](https://playvalorant.com/)
+        - [Valorant](https://playvalorant.com/)
+        - [Epic Game](https://store.epicgames.com/download)
+            - [Fortnite](https://www.epicgames.com/fortnite/en-US/home)
+        - [Stream](https://store.steampowered.com/about/)
 - **Document**
     - [Microsoft Office](https://www.office.com/) (*Windows*, *macOS*)
-    - [Drawboard PDF](https://www.drawboard.com/pdf) (*Windows*, *iPadOS*)
+    - [Drawboard PDF](https://www.drawboard.com/download) (*Windows*, *iPadOS*)
 - **Graphics**
     - Adobe setup (*macOS*, *Windows*)
     - [Lunacy](https://icons8.com/lunacy)
 - **Programming**
     - [Vs Code](https://code.visualstudio.com/)
 - **Terminal**
-    - [Git setup](https://github.com/chinhchin/Git-setup.git)
     - [iterm](https://iterm2.com/) (*macOS*)
     - *Windows*
         - [Windows Terminal](https://github.com/chinhchin/Windows-Terminal-setup) (*Windows*)
