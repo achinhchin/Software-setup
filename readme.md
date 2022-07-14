@@ -49,8 +49,8 @@
 - **Terminal**
     - [iterm](https://iterm2.com/) (*macOS*)
     - *Windows*
-        - [Windows Terminal](https://github.com/chinhchin/Windows-Terminal-setup) (*Windows*)
         - [Widows Subsystem for Linux](https://github.com/chinhchin/WSL-setup.git) (After install this you can install *Linux* Softwares in Windows)
+        - [Windows Terminal](https://github.com/chinhchin/Windows-Terminal-setup) (*Windows*)
     - *macOS*, *Linux*
         - [Brew](https://github.com/chinhchin/Brew-setup.git)
         - [Fish Shell](https://github.com/chinhchin/Fish-Shell-setup.git)
