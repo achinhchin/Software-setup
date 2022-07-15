@@ -19,6 +19,7 @@
     - [Keys remapping setup](https://github.com/chinhchin/Keys-remapping-setup.git)
 - **Useful Tools**
     - System Settings
+    - Change Windows Document path out of "**Onedrive**" folder
     - Wallpaper (see my [Wallpapers Collection](https://github.com/chinhchin/Wallpapers-Collection.git))
     - [Oracle VM VirtualBox](https://www.virtualbox.org/wiki/Downloads)
     - [Winrar (File compresser & depresser)](https://www.win-rar.com/download.html?&L=0) (*Windows*)
