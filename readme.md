@@ -19,7 +19,10 @@
     - [Keys remapping setup](https://github.com/chinhchin/Keys-remapping-setup.git)
 - **Useful Tools**
     - System Settings
-    - Change Windows Document path out of "**Onedrive**" folder
+        - Appearance
+        - Keyboard Layout
+        - OS Shortcuts
+    - Change Windows Document path out of "**Onedrive**" folder (*Windows*)
     - Wallpaper (see my [Wallpapers Collection](https://github.com/chinhchin/Wallpapers-Collection.git))
     - [Oracle VM VirtualBox](https://www.virtualbox.org/wiki/Downloads)
     - [Winrar (File compresser & depresser)](https://www.win-rar.com/download.html?&L=0) (*Windows*)
@@ -45,10 +48,10 @@
 - **Graphics**
     - Adobe setup (*macOS*, *Windows*)
     - [Lunacy](https://icons8.com/lunacy)
-- **Programming**
+- **Dev Tools**
     - [Vs Code](https://code.visualstudio.com/)
-- **Terminal**
-    - [iterm](https://iterm2.com/) (*macOS*)
+    - [Xcode](https://apps.apple.com/th/app/xcode/id497799835?mt=12) (*macOS*)
+    - [iterm2](https://iterm2.com/) (*macOS*)
     - *Windows*
         - [Widows Subsystem for Linux](https://github.com/chinhchin/WSL-setup.git) (After install this you can install *Linux* Softwares in Windows)
         - [Windows Terminal](https://github.com/chinhchin/Windows-Terminal-setup) (*Windows*)
