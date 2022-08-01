@@ -60,4 +60,3 @@
         - [Fish Shell](https://github.com/chinhchin/Fish-Shell-setup.git)
         - [Neovim setup](https://github.com/chinhchin/Neovim-setup.git)
         - [Tmux setup](https://github.com/chinhchin/Tmux-setup.git)
-
